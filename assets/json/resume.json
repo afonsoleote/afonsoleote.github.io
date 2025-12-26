@@ -30,24 +30,22 @@
 
     "awards": [
     {
-      "title": "1st Place Oeiras Internet Challenge",
-      "date": "2016-11-16",
-      "awarder": "Oeiras Valley",
-      "summary": "First place among all teams from all schools in the Oeiras municipality."
+      "title": "MSc Research Grant",
+      "date": "2024-Present",
+      "awarder": "NOVA University Lisbon",
+      "summary": "Project PRR STONE (C644943391-00000051/40)."
     },
-        
-    {
+          {
       "title": "Top Student Award",
       "date": "2024-07-29",
       "awarder": "NOVA University Lisbon",
       "summary": "Awards the top students of the university."
     },
-        
     {
-      "title": "MSc Research Grant",
-      "date": "2024-Present",
-      "awarder": "NOVA University Lisbon",
-      "summary": "Project PRR STONE (C644943391-00000051/40)."
+      "title": "1st Place Oeiras Internet Challenge",
+      "date": "2016-11-16",
+      "awarder": "Oeiras Valley",
+      "summary": "First place among all teams from all schools in the Oeiras municipality."
     }
     
   ],
