@@ -136,3 +136,22 @@ nav_order: 3
     </div>
   </div>
 </div>
+
+---
+
+## Object Detection Models for Waste Detection
+
+<div class="projects">
+  <div class="project">
+    <a href="/assets/img/projects/cv.png" target="_blank">
+      <img src="/assets/img/projects/cv.png" alt="Object Detection Models for Waste Detection preview">
+    </a>
+    <div class="project-content">
+      <!-- <h3> Scalable Cloud Backend Application </h3> -->
+      <p>
+        Explored how modern object detectors can be leveraged to waste detection tasks. Evaluate 3 representative object detectors (YOLO, DETR, RT-DETR) on PASCAL VOC 2007, to understand baseline behavior, performance and tradeoffs. Transfer learning to TACO dataset to assess zero-shot performance. Fine-tuned models in the TACO dataset adapting detection to waste categories. Finally, tested fine-tuned models on a more challenging drone image UAVVaste dataset to assess overall generalizability.
+      </p>
+    </div>
+  </div>
+</div>
+
