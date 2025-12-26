@@ -97,7 +97,7 @@
     },
     {
       "name": "Concept Probing: Where to Find Human-Defined Concepts",
-      "publisher": "Procs. of the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25",
+      "publisher": "Procs. of the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25)",
       "releaseDate": "2025-07-01",
       "url": "https://openreview.net/pdf?id=LSe4snLk8X"
     }
@@ -109,8 +109,8 @@
     "icon": "fa-solid fa-code",
     "keywords": [
       "Python",
-      "R",
       "Java",
+      "R",
       "SQL",
       "JavaScript"
     ]
@@ -123,6 +123,7 @@
       "PyTorch",
       "TensorFlow",
       "Pandas",
+      "Pyplot",
       "Git",
       "Azure",
       "Kubernetes"
@@ -134,7 +135,8 @@
     "icon": "fa-solid fa-laptop",
     "keywords": [
       "Linux",
-      "LaTeX"
+      "LaTeX",
+      "Web Development"
     ]
   }
 ],
