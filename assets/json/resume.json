@@ -3,7 +3,6 @@
     "name": "Afonso Leote",
     "email": "afonsogomesleote@gmail.com",
     "url": "https://afonsoleote.github.io/",
-    "summary": "MSc Student in Computer Science and Engineering. Research interests in Trustworthy Artificial Intelligence, Explainable AI (XAI), neuro-symbolic AI, transparent, human-centric AI, Mechanistic Interpretability, Fairness in Machine Learning.",
     "languages": "English, Portuguese"
   },
 
@@ -31,19 +30,19 @@
     "awards": [
     {
       "title": "MSc Research Grant",
-      "date": "2024-Present",
+      "date": "2024",
       "awarder": "NOVA University Lisbon",
       "summary": "Project PRR STONE (C644943391-00000051/40)."
     },
           {
       "title": "Top Student Award",
-      "date": "2024-07-29",
+      "date": "2024",
       "awarder": "NOVA University Lisbon",
       "summary": "Awards the top students of the university."
     },
     {
       "title": "1st Place Oeiras Internet Challenge",
-      "date": "2016-11-16",
+      "date": "2016",
       "awarder": "Oeiras Valley",
       "summary": "First place among all teams from all schools in the Oeiras municipality."
     }
@@ -67,6 +66,22 @@
       "summary": "In this internship, supervised by Prof. João Leite, we explored the application of wrapper feature selection methods to pinpoint small sets of neurons that may represent human-defined concepts within neural network models."
     }
   ],
+
+    "publications": [
+    {
+      "name": "On the Performance of Concept Probing: The Influence of the Data",
+      "publisher": "Procs. of the 28th European Conference on Artificial Intelligence (ECAI'25)",
+      "releaseDate": "2025",
+      "url": "https://ebooks.iospress.nl/volumearticle/76091"
+    },
+    {
+      "name": "Concept Probing: Where to Find Human-Defined Concepts",
+      "publisher": "Procs. of the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25)",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/pdf?id=LSe4snLk8X"
+    }
+  ],
+  
   "volunteer": [
     {
       "organization": "Department of Informatics, NOVA University Lisbon",
@@ -88,20 +103,7 @@
       "icon": "fa-solid fa-shield-alt"
     }
   ],
-  "publications": [
-    {
-      "name": "On the Performance of Concept Probing: The Influence of the Data",
-      "publisher": "Procs. of the 28th European Conference on Artificial Intelligence (ECAI'25)",
-      "releaseDate": "2025-07-01",
-      "url": "https://ebooks.iospress.nl/volumearticle/76091"
-    },
-    {
-      "name": "Concept Probing: Where to Find Human-Defined Concepts",
-      "publisher": "Procs. of the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25)",
-      "releaseDate": "2025-07-01",
-      "url": "https://openreview.net/pdf?id=LSe4snLk8X"
-    }
-  ],
+
 
 "skills": [
   {
