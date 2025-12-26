@@ -1,157 +1,149 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Afonso Leote",
+    "email": "afonsogomesleote@gmail.com",
+    "url": "https://afonsoleote.github.io/",
+    "summary": "MSc Student in Computer Science and Engineering. Research interests in Trustworthy Artificial Intelligence, Explainable AI (XAI), neuro-symbolic AI, transparent, human-centric AI, Mechanistic Interpretability, Fairness in Machine Learning.",
+    "languages": "English, Portuguese"
   },
+
+  "education": [
+    {
+      "institution": "NOVA School of Science and Technology, NOVA University Lisbon",
+      "location": "Lisbon, Portugal",
+      "studyType": "BSc in Computer Science and Engineering",
+      "startDate": "2021-09-15",
+      "endDate": "2024-07-29",
+      "score": "18/20",
+      "courses": ["Final GPA: 18/20"]
+    },
+        {
+      "institution": "NOVA School of Science and Technology, NOVA University Lisbon",
+      "location": "Lisbon, Portugal",
+      "studyType": "MSc in Computer Science and Engineering",
+      "startDate": "2024-09-15",
+      "endDate": "Present",
+      "score": "19/20",
+      "courses": ["Current GPA: 19/20"]
+    }
+  ],
+
+    "awards": [
+    {
+      "title": "1st Place Oeiras Internet Challenge",
+      "date": "2016-11-16",
+      "awarder": "Oeiras Valley",
+      "summary": "First place among all teams from all schools in the Oeiras municipality."
+    },
+        
+    {
+      "title": "Top Student Award",
+      "date": "2024-07-29",
+      "awarder": "NOVA University Lisbon",
+      "summary": "Awards the top students of the university."
+    },
+        
+    {
+      "title": "MSc Research Grant",
+      "date": "2024-Present",
+      "awarder": "NOVA University Lisbon",
+      "summary": "Project PRR STONE (C644943391-00000051/40)."
+    }
+    
+  ],
+
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "NOVA LINCS, NOVA University Lisbon",
+      "position": "Graduate Research Intern",
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "summary": "During this internship, supervised by Prof. João Leite, we investigated various characteristics relevant to concept probing, focusing on the data involved and the evolution of concept representations throughout neural network models."
+    },
+        
+    {
+      "name": "NOVA LINCS, NOVA University Lisbon",
+      "position": "Undergraduate Research Intern",
+      "startDate": "2023-12-15",
+      "endDate": "2024-07-29",
+      "summary": "In this internship, supervised by Prof. João Leite, we explored the application of wrapper feature selection methods to pinpoint small sets of neurons that may represent human-defined concepts within neural network models."
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Department of Informatics, NOVA University Lisbon",
+      "location": "Lisbon, Portugal",
+      "position": "Volunteer Staff",
+      "startDate": "2023-04-19",
+      "endDate": "2023-04-19",
+      "summary": "Helped organizing, setting up, and welcoming high school students to the Department of Computer Science."
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+
+
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Cybersecurity Fundamentals",
+      "date": "2023-09-14",
+      "issuer": "IBM SkillsBuild",
+      "url": "https://www.credly.com/badges/6a12a790-dbaa-412a-a290-2b8eca1ef1ec",
+      "icon": "fa-solid fa-shield-alt"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "On the Performance of Concept Probing: The Influence of the Data",
+      "publisher": "Procs. of the 28th European Conference on Artificial Intelligence (ECAI'25)",
+      "releaseDate": "2025-07-01",
+      "url": "https://ebooks.iospress.nl/volumearticle/76091"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Concept Probing: Where to Find Human-Defined Concepts",
+      "publisher": "Procs. of the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25",
+      "releaseDate": "2025-07-01",
+      "url": "https://openreview.net/pdf?id=LSe4snLk8X"
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+
+"skills": [
+  {
+    "name": "Programming",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "JavaScript"
+    ]
+  },
+
+  {
+    "name": "Frameworks",
+    "icon": "fa-solid fa-cogs",
+    "keywords": [
+      "PyTorch",
+      "TensorFlow",
+      "Pandas",
+      "Git",
+      "Azure",
+      "Kubernetes"
+    ]
+  },
+
+  {
+    "name": "Other",
+    "icon": "fa-solid fa-laptop",
+    "keywords": [
+      "Linux",
+      "LaTeX"
+    ]
+  }
+],
+
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,40 +153,15 @@
       "icon": ""
     }
   ],
-  "interests": [
+    
+  "other": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "organization": "Music Theory, Ear Training, Piano and Guitar courses",
+      "location": "Lisbon, Portugal",
+      "position": "Escola de Jazz Luiz Villas-Boas (Hot Clube de Portugal)",
+      "startDate": "2020-10-15",
+      "endDate": "2023-01-23"
     }
   ]
+  
 }
