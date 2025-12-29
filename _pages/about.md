@@ -27,7 +27,7 @@ latest_posts:
 ---
 Hi! I am currently a last-year MSc Student in Computer Science and Engineering, specializing in Artificial Intelligence at [NOVA School of Science and Technology](https://www.fct.unl.pt/), NOVA University Lisbon, Portugal. 
 
-I am working as a Research Intern at the [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/) research lab.
+I am working as a Research Intern at the [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/) research lab in the Intelligent Systems research group.
 
 <!-- , where I am fortunate to have João Leite as my supervisor. -->
 
