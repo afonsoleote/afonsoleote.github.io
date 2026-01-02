@@ -2,7 +2,6 @@
   "basics": {
     "name": "Afonso Leote",
     "email": "afonsogomesleote@gmail.com",
-    "url": "https://afonsoleote.github.io/",
     "languages": "English, Portuguese"
   },
 
@@ -162,7 +161,9 @@
       "location": "Lisbon, Portugal",
       "position": "Escola de Jazz Luiz Villas-Boas (Hot Clube de Portugal)",
       "startDate": "2020-10-15",
-      "endDate": "2023-01-23"
+      "endDate": "2023-01-23",
+      "summary": "https://www.youtube.com/watch?v=DLmasP6zMg4"
+
     }
   ]
   
