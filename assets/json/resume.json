@@ -15,7 +15,7 @@
       "score": "18/20",
       "courses": ["Final GPA: 18/20"]
     },
-        {
+    {
       "institution": "NOVA School of Science and Technology, NOVA University Lisbon",
       "location": "Lisbon, Portugal",
       "studyType": "MSc in Computer Science and Engineering",
@@ -26,8 +26,7 @@
     }
   ],
 
-    "awards": [
-
+  "awards": [
     {
       "title": "MSc Research Grant",
       "date": "2026",
@@ -40,7 +39,7 @@
       "awarder": "NOVA University Lisbon",
       "summary": "Project PRR STONE (C644943391-00000051/40)."
     },
-          {
+    {
       "title": "Top Student Award",
       "date": "2024",
       "awarder": "NOVA University Lisbon",
@@ -52,7 +51,6 @@
       "awarder": "Oeiras Valley",
       "summary": "First place among all teams from all schools in the Oeiras municipality."
     }
-    
   ],
 
   "work": [
@@ -63,7 +61,7 @@
       "endDate": "Present",
       "summary": "During this internship, supervised by Prof. João Leite, we investigated various characteristics relevant to concept probing, focusing on the data involved and the evolution of concept representations throughout neural network models."
     },
-        
+
     {
       "name": "NOVA LINCS, NOVA University Lisbon",
       "position": "Undergraduate Research Intern",
@@ -73,7 +71,7 @@
     }
   ],
 
-    "publications": [
+  "publications": [
     {
       "name": "On the Performance of Concept Probing: The Influence of the Data",
       "publisher": "Procs. of the 28th European Conference on Artificial Intelligence (ECAI'25)",
@@ -87,7 +85,7 @@
       "url": "https://openreview.net/pdf?id=LSe4snLk8X"
     }
   ],
-  
+
   "volunteer": [
     {
       "organization": "Department of Informatics, NOVA University Lisbon",
@@ -99,7 +97,6 @@
     }
   ],
 
-
   "certificates": [
     {
       "name": "Cybersecurity Fundamentals",
@@ -110,44 +107,25 @@
     }
   ],
 
+  "skills": [
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "Java", "R", "SQL", "JavaScript"]
+    },
 
-"skills": [
-  {
-    "name": "Programming",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "Python",
-      "Java",
-      "R",
-      "SQL",
-      "JavaScript"
-    ]
-  },
+    {
+      "name": "Frameworks",
+      "icon": "fa-solid fa-cogs",
+      "keywords": ["PyTorch", "TensorFlow", "Pandas", "Pyplot", "Git", "Azure", "Kubernetes"]
+    },
 
-  {
-    "name": "Frameworks",
-    "icon": "fa-solid fa-cogs",
-    "keywords": [
-      "PyTorch",
-      "TensorFlow",
-      "Pandas",
-      "Pyplot",
-      "Git",
-      "Azure",
-      "Kubernetes"
-    ]
-  },
-
-  {
-    "name": "Other",
-    "icon": "fa-solid fa-laptop",
-    "keywords": [
-      "Linux",
-      "LaTeX",
-      "Web Development"
-    ]
-  }
-],
+    {
+      "name": "Other",
+      "icon": "fa-solid fa-laptop",
+      "keywords": ["Linux", "LaTeX", "Web Development"]
+    }
+  ],
 
   "languages": [
     {
@@ -161,7 +139,7 @@
       "icon": ""
     }
   ],
-    
+
   "other": [
     {
       "organization": "Music Theory, Ear Training, Piano and Guitar courses",
@@ -171,5 +149,4 @@
       "endDate": "2023-01-23"
     }
   ]
-  
 }

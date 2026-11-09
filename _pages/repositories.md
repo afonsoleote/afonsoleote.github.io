@@ -6,6 +6,7 @@ description: Below is a sample of some side projects I have worked on, in no par
 nav: true
 nav_order: 3
 ---
+
 <style>
 .projects {
   display: flex;
@@ -154,4 +155,3 @@ nav_order: 3
     </div>
   </div>
 </div>
-
